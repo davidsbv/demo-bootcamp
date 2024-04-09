@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo de prueba
+=======
+hola
+>>>>>>> 9b92702782d1ae064b4bae764e9c877c9e36bb7d
